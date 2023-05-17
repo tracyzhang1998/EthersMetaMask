@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.24813f42.css",
-    "main.js": "/static/js/main.07aac9a0.js",
+    "main.js": "/static/js/main.a9b60b91.js",
     "static/js/787.b4d66632.chunk.js": "/static/js/787.b4d66632.chunk.js",
     "static/media/投票合约.pdf": "/static/media/投票合约.6d4837b6f2751a38fb56.pdf",
     "static/media/JAVA与合约交互文档.pdf": "/static/media/JAVA与合约交互文档.56220206afd798eda9b9.pdf",
@@ -17,11 +17,11 @@
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.24813f42.css.map": "/static/css/main.24813f42.css.map",
-    "main.07aac9a0.js.map": "/static/js/main.07aac9a0.js.map",
+    "main.a9b60b91.js.map": "/static/js/main.a9b60b91.js.map",
     "787.b4d66632.chunk.js.map": "/static/js/787.b4d66632.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.24813f42.css",
-    "static/js/main.07aac9a0.js"
+    "static/js/main.a9b60b91.js"
   ]
 }
