@@ -1,16 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.e7567473.css",
-    "main.js": "/static/js/main.e439aac9.js",
+    "main.css": "/static/css/main.24813f42.css",
+    "main.js": "/static/js/main.05a0e195.js",
     "static/js/787.b4d66632.chunk.js": "/static/js/787.b4d66632.chunk.js",
+    "static/media/投票合约.pdf": "/static/media/投票合约.6d4837b6f2751a38fb56.pdf",
+    "static/media/JAVA与合约交互文档.pdf": "/static/media/JAVA与合约交互文档.56220206afd798eda9b9.pdf",
+    "static/media/Token合约.pdf": "/static/media/Token合约.3e7f3991f988223efc83.pdf",
+    "static/media/组织合约.pdf": "/static/media/组织合约.84491cc3db38093e6230.pdf",
+    "static/media/组织工厂合约.pdf": "/static/media/组织工厂合约.24ffc85b7310df6963a9.pdf",
+    "static/media/治理激励合约.pdf": "/static/media/治理激励合约.72558ba380f705126c06.pdf",
+    "static/media/治理合约.pdf": "/static/media/治理合约.ae12b7f4fd79689c08c2.pdf",
+    "static/media/投票工厂合约.pdf": "/static/media/投票工厂合约.f836d5eb4c2d77ae15f7.pdf",
+    "static/media/合同工厂合约.pdf": "/static/media/合同工厂合约.44ec8f51dc712b0bc04f.pdf",
+    "static/media/合同合约.pdf": "/static/media/合同合约.e5377631a762bf8382cf.pdf",
+    "static/media/json.zip": "/static/media/json.369ec85c0ca6528f7627.zip",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.e7567473.css.map": "/static/css/main.e7567473.css.map",
-    "main.e439aac9.js.map": "/static/js/main.e439aac9.js.map",
+    "main.24813f42.css.map": "/static/css/main.24813f42.css.map",
+    "main.05a0e195.js.map": "/static/js/main.05a0e195.js.map",
     "787.b4d66632.chunk.js.map": "/static/js/787.b4d66632.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7567473.css",
-    "static/js/main.e439aac9.js"
+    "static/css/main.24813f42.css",
+    "static/js/main.05a0e195.js"
   ]
 }
